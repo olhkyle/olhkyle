@@ -5,4 +5,4 @@
 <span> _ Html, Css(+Sass), Javascript </span>
 </br>
 <strong> current learning stack </strong>
-<span> _ React / nodeJS <span>
+<span> _ React / Typescript / nodeJS <span>
