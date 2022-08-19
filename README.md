@@ -1,1 +1,8 @@
-<img src=https://user-images.githubusercontent.com/99726297/154061453-3b950171-4ab6-425e-94db-c24bd966b36e.png alt="kyle"></img>
+<p> Hello! Welcome to Future 🧑🏻‍💻 FE developer's space </p>
+<p> In previous, I was a junior architect 👩🏻‍🚀 (real architecture stuffs)
+<hr>
+<strong> Own stack </strong>
+<span> _ Html, Css(+Sass), Javascript </span>
+</br>
+<strong> current learning stack </strong>
+<span> _ React / nodeJS <span>
