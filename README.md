@@ -2,7 +2,7 @@
 <p> In previous, I was a junior architect 👩🏻‍🚀 (real architecture stuffs)
 <hr>
 <strong> Own stack </strong>
-<span> _ Html, Css(+Sass), Javascript </span>
+<span> _ Html, CSS(+Sass), Javascript </span>
 </br>
 <strong> current learning stack </strong>
-<span> _ React / Typescript / nodeJS <span>
+<span> _ React / Typescript <span>
