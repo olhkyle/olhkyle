@@ -7,7 +7,7 @@
   Hi! I'm junior FE Developer. 
   <br/>
   <br/>
-  Originally, majored in **Architecture** specialized in architectural design 👷🏻‍♂️
+  Originally, majored in **Architecture** specialized in architectural design & system 👷🏻‍♂️
   <br/>
     <br/>
   Currently experience 🖥️ **FrontEnd Development** <br/>
