@@ -12,6 +12,6 @@
   ## Currently experience <strong>🔭 FrontEnd Development</strong> <br/>
   <div align="center"><img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript"/>  <img src="https://img.shields.io/badge/Recoil-black?style=for-the-badge&logo=recoil"/>  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js"/></p>
   
- <sub><sup>Written by <a href="https://github.com/olhkyle">@Olhkyle</a></sup></sub><small>✌</small>
+ <sub><sup>Written by <a href="https://olhkyle.me">@Olhkyle</a></sup></sub><small>✌</small>
 
 </div>
