@@ -10,9 +10,21 @@
     
 
   ## Currently experience <strong>🔭 FrontEnd Development</strong> <br/>
-  <div align="center"><img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript"/>  <img src="https://img.shields.io/badge/Recoil-black?style=for-the-badge&logo=recoil"/> <img src="https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react%20query&logoColor=ff4154"/> <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js"/> <br/>
-   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </div>
+  <div align="center">
+    <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript"/> 
+    <br/>
+    <img src="https://img.shields.io/badge/Redux Toolkit-black?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Recoil-black?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+    <img src="https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react%20query&logoColor=ff4154"/> 
+    <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js"/> 
+    <br/>
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Styled--Components/Emotion-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+  </div>
 
   
  <sub><sup>Written by <a href="https://olhkyle.me">@Olhkyle</a></sup></sub><small>✌</small>
