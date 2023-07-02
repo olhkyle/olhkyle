@@ -5,11 +5,16 @@
 <!--   ![Olhkyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=olhkyle&show_icons=true&theme=dark#gh-dark-mode-only) -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23909090&size=30&center=true&vCenter=true&height=150&lines=Hello+%E2%9C%8B+I'm+Kyle)](https://git.io/typing-svg)
   <br/>
-  #### Originally, majored in **Architecture** specialized in architectural design & system 👷🏻‍♂️
+
+  <h3>👷🏻‍♂ Background</h3>
+  <p> Originally, majored in Architecture specialized in architectural design & system</p>
+
+  
+  <br/>
   <br/>
     
 
-  ## Currently experience <strong>🔭 FrontEnd Development</strong> <br/>
+  <h3> 🔭 Tech Stack </h3>
   <div align="center">
     <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
@@ -26,6 +31,14 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
   </div>
 
+  <br/>
+  <br/> 
+
+  <h3>📹 Study Record</h3>
+  <a href="https://smooth-rain-4fc.notion.site/Study-Project-Record-bc67300f84ca4d5ba07adc28f905e6f6?pvs=4">☕️ Notion</a>
+
+  <br/>
+  <br/>
   
  <sub><sup>Written by <a href="https://olhkyle.me">@Olhkyle</a></sup></sub><small>✌</small>
 
