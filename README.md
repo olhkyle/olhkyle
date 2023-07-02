@@ -34,8 +34,11 @@
   <br/>
   <br/> 
 
-  <h3>📹 Study Record</h3>
-  <a href="https://smooth-rain-4fc.notion.site/Study-Project-Record-bc67300f84ca4d5ba07adc28f905e6f6?pvs=4">☕️ Notion</a>
+  <h3>📹 Steady Growth Record</h3>
+  <div>
+    <a href="https://smooth-rain-4fc.notion.site/Study-Project-Record-bc67300f84ca4d5ba07adc28f905e6f6?pvs=4">☕️ Notion</a>
+  <a href="https://velog.io/@defaultkyle/series">🎾 Velog</a>
+  </div>
 
   <br/>
   <br/>
