@@ -8,8 +8,16 @@
 
   <h3>👷🏻‍♂ Background</h3>
   <p> Originally, majored in Architecture specialized in architectural design & system</p>
-
   
+  <br/>
+  <br/>
+
+  <h3>📹 Steady Growth Record</h3>
+  <div>
+    <a href="https://smooth-rain-4fc.notion.site/Study-Project-Record-bc67300f84ca4d5ba07adc28f905e6f6?pvs=4">☕️ Notion</a>
+    <a href="https://kyledot.netlify.app">🎾 Kyledot.blog</a>
+  </div>
+
   <br/>
   <br/>
     
@@ -33,15 +41,6 @@
 
   <br/>
   <br/> 
-
-  <h3>📹 Steady Growth Record</h3>
-  <div>
-    <a href="https://smooth-rain-4fc.notion.site/Study-Project-Record-bc67300f84ca4d5ba07adc28f905e6f6?pvs=4">☕️ Notion</a>
-    <a href="https://kyledot.netlify.app">🎾 Kyledot.blog</a>
-  </div>
-
-  <br/>
-  <br/>
   
  <sub><sup>Written by <a href="https://olhkyle.me">@Olhkyle</a></sup></sub><small>✌</small>
 
