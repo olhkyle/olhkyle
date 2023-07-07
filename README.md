@@ -23,22 +23,68 @@
     
 
   <h3> 🔭 Tech Stack </h3>
-  <div align="center">
-    <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript"/> 
-    <br/>
-    <img src="https://img.shields.io/badge/Redux Toolkit-black?style=for-the-badge&logo=redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Recoil-black?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-    <img src="https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react%20query&logoColor=ff4154"/> 
-    <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js"/> 
-    <br/>
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Styled--Components/Emotion-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
-  </div>
-
+  <table>
+    <tr>
+      <td align="center" width="64">
+        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React" />
+        <br>
+        <span>React</span>
+      </td>
+      <td align="center" width="64">
+        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="JavaScript" />
+        <br>
+        <span>Javascript</span>
+      </td>
+      <td align="center"  width="64">
+        <img src="https://skillicons.dev/icons?i=ts" width="32" height="32" alt="TypeScript" />
+        <br>
+        <span>TypeScript</span>
+      </td>
+      <td align="center" width="64">
+        <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML" />
+        <br>
+        <span>HTML</span>
+      </td>
+      <td align="center" width="64">
+        <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="css" />
+        <br>
+        <span>CSS</span>
+      </td>
+      <td align="center" width="64">
+        <img src="https://skillicons.dev/icons?i=vite" width="32" height="32" alt="Vite" />
+        <br>
+        <span>Vite</span>
+      </td>
+      <td align="center" width="64"> 
+        <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git" />
+        <br>
+        <span>Git</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"  width="64">
+        <img src="https://skillicons.dev/icons?i=emotion" width="32" height="32" alt="emotion" />
+        <br>
+        <span>Emotion</span>
+      </td>
+      <td align="center" width="64">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="tailwind" />
+        <br>
+        <span>TailwindCSS</span>
+      </td>
+      <td align="center" width="64">
+        <img src="https://skillicons.dev/icons?i=sass" width="32" height="32" alt="sass" />
+        <br>
+        <span>Sass</span>
+      </td>
+      <td align="center" width="64">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="32" height="32" alt="styledcomponents" />
+        <br>
+        <span>Styled-Components</span>
+      </td>
+    </tr>
+  </table>
+  
   <br/>
   <br/> 
   
