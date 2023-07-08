@@ -35,11 +35,6 @@
         <br>
         <span>Javascript</span>
       </td>
-      <td align="center"  width="64">
-        <img src="https://skillicons.dev/icons?i=ts" width="32" height="32" alt="TypeScript" />
-        <br>
-        <span>TypeScript</span>
-      </td>
       <td align="center" width="64">
         <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML" />
         <br>
@@ -60,8 +55,6 @@
         <br>
         <span>Git</span>
       </td>
-    </tr>
-    <tr>
       <td align="center"  width="64">
         <img src="https://skillicons.dev/icons?i=emotion" width="32" height="32" alt="emotion" />
         <br>
@@ -80,7 +73,30 @@
       <td align="center" width="64">
         <img src="https://skillicons.dev/icons?i=styledcomponents" width="32" height="32" alt="styledcomponents" />
         <br>
-        <span>Styled-Components</span>
+        <span>S-C</span>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <h3> 🔭 Learning Now </h3>
+  <table>
+    <tr>
+      <td align="center"  width="64">
+        <img src="https://skillicons.dev/icons?i=ts" width="32" height="32" alt="TypeScript" />
+        <br>
+        <span>TypeScript</span>
+      </td>
+      <td align="center"  width="64">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="NextJS" />
+        <br>
+        <span>NextJS</span>
+      </td>
+       <td align="center"  width="64">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB" />
+        <br>
+        <span>MongoDB</span>
       </td>
     </tr>
   </table>
