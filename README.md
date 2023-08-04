@@ -1,15 +1,11 @@
-## Hi! I'm Hyukmin Kwon (Kyle) 🏄🏻‍♂️
-👉 I'm a FE developer who lives for steady growth and the joy of immersion.
-> 
-> 🏢 Background of Architecture
-> 
-> ☕️ Coffee Lover
->
-> 📷 Photographer
->
-> 🍏 Respect for Practical Design
-> 
-> 🇩🇪 Experience living in Germany 
+## Hi there 🏄🏻‍♂️
+> 👉 I'm Hyukmin Kwon(Kyle). A FE developer who lives for steady growth and the joy of immersion.
+
+- 🏢 Background of Architecture 
+- ☕️ Coffee Lover
+- 📷 Photographer
+- 🍏 Respect for Practical Design
+- 🇩🇪 Experience living in Germany 
 
 ### About Me
 💿 [Olhkyle.me](https://olhkyle.me)  |  ☕️ [Blog](https://kyledot.netlify.app/)
