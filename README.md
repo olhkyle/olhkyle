@@ -27,3 +27,4 @@
 ### Learning Now
 ![TypeScript](https://img.shields.io/badge/TypeScript-black.svg?style=flat-square&logo=typescript)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift)
