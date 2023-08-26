@@ -8,7 +8,7 @@
 - 🇩🇪 Experience living in Germany 
 
 ### About Me
-💿 [Olhkyle.me](https://olhkyle.me)  |  ☕️ [Blog](https://kyledot.netlify.app/) | 📎 [Resume](https://docs.google.com/document/d/1pFxuhsGGJLaQ1n5ej11ng0ZiKNXoXbjromNNKl40mJc/edit?usp=sharing)
+💿 [Olhkyle.me](https://olhkyle.me)  |  ☕️ [Blog](https://olhkyle.github.io/) | 📎 [Resume](https://docs.google.com/document/d/1pFxuhsGGJLaQ1n5ej11ng0ZiKNXoXbjromNNKl40mJc/edit?usp=sharing)
 
 ### Tech Stack 
 ![React](https://img.shields.io/badge/React-black.svg?style=flat-square&logo=react)
