@@ -1,4 +1,4 @@
-## Hi there 🏄🏻‍♂️
+## Hi there 👨‍🚀
 > 👉 I'm Hyukmin Kwon(Kyle). A FE developer who lives for steady growth and keep finding what I want.
 
 - 🏢 Background of Architecture 
