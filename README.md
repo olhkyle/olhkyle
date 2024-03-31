@@ -12,4 +12,4 @@
 
 
 ### Keep Learning
-`TypeScript` `NextJS` `Swift`
+`TypeScript` `NextJS` `MySQL`
