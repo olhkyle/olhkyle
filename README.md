@@ -1,15 +1,15 @@
 ## Hi there 👨‍🚀
-> 👉 I'm Hyukmin Kwon(Kyle). A FE developer who lives for steady growth and keep finding what I want.
+> 👉 I'm Hyukmin Kwon(Kyle). A Web Developer passionate about well-made products and functional programming.
 
-- 🏢 Background of Architecture 
+- 👔 Worked at a fashion brand company as Web Developer and Space Designer before
+- 🇩🇪 Experience living in Germany 
 - ☕️ Coffee Lover
 - 📷 Photographer
-- 🍏 Respect for Practical Design
-- 🇩🇪 Experience living in Germany 
+- 🚲 Strida Bike Rider
 
 ### About Me
 💿 [Olhkyle.me](https://olhkyle.me)  |  ☕️ [Blog](https://olhkyle.github.io/) | 📎 [Resume](https://docs.google.com/document/d/1pFxuhsGGJLaQ1n5ej11ng0ZiKNXoXbjromNNKl40mJc/edit?usp=sharing)
 
 
 ### Keep Learning
-`TypeScript` `NextJS` `MySQL`
+`TypeScript` `NextJS` `MySQL` 
