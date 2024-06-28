@@ -3,7 +3,7 @@
 
 #### Career 
 - Studio OMH, Frontend Engineer (Freelancer) (2024.06 ~ )
-- <a href="">205Company</a> (OBSCURA, YOUTH), Web Developer / Interior Design PM (2023.11 ~ 2024.04)
+- <a href="https://205company.com/">205Company</a> (OBSCURA, YOUTH), Web Developer / Interior Design PM (2023.11 ~ 2024.04)
 
 
 #### Different Field
