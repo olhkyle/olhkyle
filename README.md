@@ -2,7 +2,7 @@
 
 
 #### Career 
-- Studio OMH, Frontend Engineer (Freelancer) (2024.06 ~ )
+- OMH, Frontend Engineer (2024.06 ~ )
 - <a href="https://205company.com/">205Company</a> (OBSCURA, YOUTH), Web Developer / Interior Design PM (2023.11 ~ 2024.04)
 - <a href="https://designthou.com" style="color:#1C9EFF;">Designthou</a>, Security Manager / Frontend Engineer (2022.02 ~ Current)
 
