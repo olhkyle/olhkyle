@@ -1,4 +1,4 @@
-> <img src="https://github.com/olhkyle/olhkyle/assets/99726297/b9e3ec9b-8bd7-4ed0-9a82-5e03bd48a341" alt="logo" style="width:24px;height:24px;border-radius:24px"/> <b>Hyukmin Kwon(Kyle)</b>. A Software Engineer passionate about well-made products and functional programming, especially specialized in Frontend Development.
+> <b>Hyukmin Kwon(Kyle)</b>
 
 
 #### Career 
