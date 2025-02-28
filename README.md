@@ -10,12 +10,5 @@
 
 `🇩🇪 Experience living in Germany` `☕️ Filter Coffee Lover` `📷 FujiFilm Photographer` `🚲 Strida Bike Rider`
 
+<a href="https://www.buymeacoffee.com/kwonkyle" target="_blank" rel="noopener noreferrer" > ☕️ Buy Me a Coffee</a>
 
- <a
-  href="https://www.buymeacoffee.com/kwonkyle"
-  target="_blank"
-  rel="noopener noreferrer"
-  style="padding:8px 12px; background-color:#ffc800; border-radius:8px;"
->
-  ☕️ Buy Me a Coffee
-</a>
